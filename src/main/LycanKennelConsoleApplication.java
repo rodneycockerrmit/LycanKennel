@@ -7,7 +7,7 @@ import view.console.TestKennel;
  * LycanKennelConsoleApplication
  * version 1.0
  * 13/02/2019
- * © 2015 Rodney Cocker
+ * Â© 2015 Rodney Cocker
  */
 public class LycanKennelConsoleApplication 
 {
@@ -23,5 +23,8 @@ public class LycanKennelConsoleApplication
 		
 		// Once created we can then use the class by calling its methods.
 		testDog.test();
+		
+		
+		System.out.println("Testing simulated change on server.");
 	}
 }
