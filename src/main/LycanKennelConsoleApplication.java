@@ -24,7 +24,7 @@ public class LycanKennelConsoleApplication
 		// Once created we can then use the class by calling its methods.
 		testDog.test();
 		
-		System.out.println("Let's try again.");
+		
 		
 	}
 }
